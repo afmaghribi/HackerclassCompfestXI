@@ -1,0 +1,26 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu Jul 18 00:03:38 2019
+Invocation: foremost http_log.pcap 
+Output directory: /mnt/i/All_Of_Mine/Ctf/CTF_Yang_Ikut/Compfest11/Hackerclass/BankSOAL/Forensics/Secret_Message/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: http_log.pcap
+Start: Thu Jul 18 00:03:38 2019
+Length: 4 KB (4547 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000001.zip 	      23 KB 	        941 	 
+1:	00000004.png 	      504 B 	       2285 	  (205 x 205)
+2:	00000007.png 	      516 B 	       3867 	  (205 x 205)
+Finish: Thu Jul 18 00:03:39 2019
+
+3 FILES EXTRACTED
+	
+zip:= 1
+png:= 2
+------------------------------------------------------------------
+
+Foremost finished at Thu Jul 18 00:03:39 2019

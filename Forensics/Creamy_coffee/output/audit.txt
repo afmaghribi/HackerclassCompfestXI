@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Jul 17 14:51:47 2019
+Invocation: foremost coffee.jpg 
+Output directory: /mnt/i/All_Of_Mine/Ctf/CTF_Yang_Ikut/Compfest11/Hackerclass/BankSOAL/Forensics/Creamy_coffee/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: coffee.jpg
+Start: Wed Jul 17 14:51:47 2019
+Length: 2 MB (3117659 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	       2 MB 	          0 	 
+1:	00006046.zip 	      21 KB 	    3095681 	 
+Finish: Wed Jul 17 14:51:48 2019
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed Jul 17 14:51:48 2019
